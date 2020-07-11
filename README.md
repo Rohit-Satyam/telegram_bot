@@ -12,3 +12,8 @@
 10. It will ask for API token. Simply copy paste it. Something like shown below![enter image description here](https://www.linux-magazine.com/var/linux_magazin/storage/images/media/linux-magazine-eng-us/images/telegram-send/675315-1-eng-US/telegram-send_reference.png) 
 11. It will then give you a password which you need to go to type in **wgs_task_update** in your phone. Tada!! your bot is set now to send notifications on your telegram.
 
+### Sources referred
+1. [Productivity Sauce](https://www.linux-magazine.com/Online/Blogs/Productivity-Sauce/Push-Messages-from-the-Command-Line-to-Telegram#:~:text=Once%20you%27ve%20done%20that,%22O%20Hai%20World%22%20command.)
+2. [How to get Telegram bot API token](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token)
+3.  [telegram-send](https://github.com/rahiel/telegram-send#how-to-send-the-same-message-to-multiple-users)
+
